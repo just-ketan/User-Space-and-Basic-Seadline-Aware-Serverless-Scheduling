@@ -1,0 +1,33 @@
+Simulation Results - 2025-10-30 21:16:27.318165
+======================================================================
+
+Task: Task1
+  ID: task_0
+  Arrival: 1761838269.18
+  Deadline: 1761838284.18
+  Start: 1761838269.18
+  End: 1761838273.18
+  Status: on-time
+  Queue Time: 0.000s
+  Exec Time: 4.000s
+
+Task: Task2
+  ID: task_1
+  Arrival: 1761838269.28
+  Deadline: 1761838279.18
+  Start: 1761838273.18
+  End: 1761838275.18
+  Status: on-time
+  Queue Time: 3.900s
+  Exec Time: 2.000s
+
+Task: Task3
+  ID: task_2
+  Arrival: 1761838269.38
+  Deadline: 1761838274.18
+  Start: 1761838275.18
+  End: 1761838281.18
+  Status: missed
+  Queue Time: 5.800s
+  Exec Time: 6.000s
+

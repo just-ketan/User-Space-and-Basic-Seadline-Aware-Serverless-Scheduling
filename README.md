@@ -1,0 +1,11 @@
+# USAS-BDA
+This project simulates a user-space adaptive scheduler for serverless functions with deadline awareness.
+
+## Structure
+- Serverless/: Simulated functions and invocation scripts
+- Scheduler/: Adaptive scheduling logic & (future) middleware API
+- Loggings/: Logs and analytics output
+
+## Quickstart
+1. Create and activate a Python virtual environment.
+2. Install dependencies: pip install -r requirements.txt

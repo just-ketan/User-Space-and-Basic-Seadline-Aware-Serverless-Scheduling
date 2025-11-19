@@ -1,0 +1,153 @@
+2025-10-16 20:02:52.296594 - Task: Long, Deadline: 1760625182.30, Started: 1760625172.30, Status: on-time
+2025-10-16 20:02:57.314291 - Task: Long finished.
+2025-10-16 20:02:57.314371 - Task: Short, Deadline: 1760625187.30, Started: 1760625177.31, Status: on-time
+2025-10-16 20:02:57.324295 - Short Task Started
+2025-10-16 20:02:58.325573 - Short Task Ended, Duration: 1.00 s
+2025-10-16 20:02:58.331459 - Task: Short finished.
+2025-10-16 20:03:01.020850 - Manual test log entry.
+2025-10-16 20:16:51.351591 - Task: Task3, Deadline: 1760626016.35, Started: 1760626011.35, Status: on-time
+2025-10-16 20:16:51.360909 - Task3 Started - Start time: 1760626011.36 - Est. Duration: 5.82 s - Deadline: None
+2025-10-16 20:16:57.184700 - Task3 Ended - End time: 1760626017.18 - Actual Duration: 5.82 s
+2025-10-16 20:16:57.191073 - Task: Task3 finished.
+2025-10-16 20:16:57.191162 - Task: Task2, Deadline: 1760626021.35, Started: 1760626017.19, Status: on-time
+2025-10-16 20:16:57.204936 - Task2 Started - Start time: 1760626017.20 - Est. Duration: 2.29 s - Deadline: None
+2025-10-16 20:16:59.499919 - Task2 Ended - End time: 1760626019.50 - Actual Duration: 2.29 s
+2025-10-16 20:16:59.507762 - Task: Task2 finished.
+2025-10-16 20:16:59.508052 - Task: Task1, Deadline: 1760626026.35, Started: 1760626019.51, Status: on-time
+2025-10-16 20:16:59.528056 - Task1 Started - Start time: 1760626019.53 - Est. Duration: 3.11 s - Deadline: None
+2025-10-16 20:17:02.639779 - Task1 Ended - End time: 1760626022.64 - Actual Duration: 3.11 s
+2025-10-16 20:17:02.647306 - Task: Task1 finished.
+2025-10-16 20:18:12.300106 - Task: Task3, Deadline: 1760626097.30, Started: 1760626092.30, Status: on-time
+2025-10-16 20:18:12.309272 - Task3 Started - Start time: 1760626092.31 - Est. Duration: 4.34 s - Deadline: None
+2025-10-16 20:18:16.652943 - Task3 Ended - End time: 1760626096.65 - Actual Duration: 4.34 s
+2025-10-16 20:18:16.660985 - Task: Task3 finished.
+2025-10-16 20:18:16.661183 - Task: Task2, Deadline: 1760626102.30, Started: 1760626096.66, Status: on-time
+2025-10-16 20:18:16.679988 - Task2 Started - Start time: 1760626096.68 - Est. Duration: 2.84 s - Deadline: None
+2025-10-16 20:18:19.524790 - Task2 Ended - End time: 1760626099.52 - Actual Duration: 2.84 s
+2025-10-16 20:18:19.527132 - Task: Task2 finished.
+2025-10-16 20:18:19.527217 - Task: Task1, Deadline: 1760626107.30, Started: 1760626099.53, Status: on-time
+2025-10-16 20:18:19.536907 - Task1 Started - Start time: 1760626099.54 - Est. Duration: 3.08 s - Deadline: None
+2025-10-16 20:18:22.620946 - Task1 Ended - End time: 1760626102.62 - Actual Duration: 3.08 s
+2025-10-16 20:18:22.628595 - Task: Task1 finished.
+2025-10-16 20:18:41.651317 - Task: InvokedTask, Deadline: 1760626136.46, Started: 1760626121.65, Status: on-time
+2025-10-16 20:18:41.664270 - InvokedTask Started - Start time: 1760626121.66 - Est. Duration: 2.90 s - Deadline: None
+2025-10-16 20:18:44.560871 - InvokedTask Ended - End time: 1760626124.56 - Actual Duration: 2.90 s
+2025-10-16 20:18:44.568288 - Task: InvokedTask finished.
+2025-10-16 20:18:55.581913 - Task: InvokedTask, Deadline: 1760626150.13, Started: 1760626135.58, Status: on-time
+2025-10-16 20:18:55.595006 - InvokedTask Started - Start time: 1760626135.59 - Est. Duration: 2.34 s - Deadline: None
+2025-10-16 20:18:57.937543 - InvokedTask Ended - End time: 1760626137.94 - Actual Duration: 2.34 s
+2025-10-16 20:18:57.943265 - Task: InvokedTask finished.
+2025-10-16 20:20:46.567942 - Task: InvokedTask, Deadline: 1760626261.34, Started: 1760626246.57, Status: on-time
+2025-10-16 20:20:46.592809 - InvokedTask Started - Start time: 1760626246.59 - Est. Duration: 2.78 s - Deadline: None
+2025-10-16 20:20:49.380814 - InvokedTask Ended - End time: 1760626249.38 - Actual Duration: 2.79 s
+2025-10-16 20:20:49.387398 - Task: InvokedTask finished.
+2025-10-16 20:21:13.648304 - Task: Task3, Deadline: 1760626278.65, Started: 1760626273.65, Status: on-time
+2025-10-16 20:21:13.657943 - Task3 Started - Start time: 1760626273.66 - Est. Duration: 5.02 s - Deadline: None
+2025-10-16 20:21:18.682097 - Task3 Ended - End time: 1760626278.68 - Actual Duration: 5.02 s
+2025-10-16 20:21:18.688149 - Task: Task3 finished.
+2025-10-16 20:21:18.688214 - Task: Task2, Deadline: 1760626283.65, Started: 1760626278.69, Status: on-time
+2025-10-16 20:21:18.703238 - Task2 Started - Start time: 1760626278.70 - Est. Duration: 2.28 s - Deadline: None
+2025-10-16 20:21:20.988786 - Task2 Ended - End time: 1760626280.99 - Actual Duration: 2.29 s
+2025-10-16 20:21:20.996209 - Task: Task2 finished.
+2025-10-16 20:21:20.996404 - Task: Task1, Deadline: 1760626288.65, Started: 1760626281.00, Status: on-time
+2025-10-16 20:21:21.019297 - Task1 Started - Start time: 1760626281.02 - Est. Duration: 4.44 s - Deadline: None
+2025-10-16 20:21:25.460462 - Task1 Ended - End time: 1760626285.46 - Actual Duration: 4.44 s
+2025-10-16 20:21:25.466993 - Task: Task1 finished.
+2025-10-16 20:21:28.470729 - Task: InvokedTask, Deadline: 1760626302.99, Started: 1760626288.47, Status: on-time
+2025-10-16 20:21:28.484089 - InvokedTask Started - Start time: 1760626288.48 - Est. Duration: 4.25 s - Deadline: None
+2025-10-16 20:21:32.740436 - InvokedTask Ended - End time: 1760626292.74 - Actual Duration: 4.26 s
+2025-10-16 20:21:32.746226 - Task: InvokedTask finished.
+2025-10-16 20:21:57.274532 - Task: InvokedTask, Deadline: 1760626332.06, Started: 1760626317.27, Status: on-time
+2025-10-16 20:21:57.292590 - InvokedTask Started - Start time: 1760626317.29 - Est. Duration: 2.74 s - Deadline: None
+2025-10-16 20:22:00.032015 - InvokedTask Ended - End time: 1760626320.03 - Actual Duration: 2.74 s
+2025-10-16 20:22:00.037910 - Task: InvokedTask finished.
+2025-10-16 20:30:12.000526 - Task: Task3, Deadline: 1760626817.00, Started: 1760626812.00, Status: on-time, WaitTime: 0.00
+2025-10-16 20:30:12.009597 - Task3 Started - Start time: 1760626812.01 - Est. Duration: 5.93 s - Deadline: None
+2025-10-16 20:30:17.944968 - Task3 Ended - End time: 1760626817.94 - Actual Duration: 5.94 s
+2025-10-16 20:31:11.721373 - Task: Task3, Deadline: 1760626876.72, Started: 1760626871.72, Status: on-time, WaitTime: 0.00
+2025-10-16 20:31:11.731645 - Task3 Started - Start time: 1760626871.73 - Est. Duration: 6.24 s - Deadline: None
+2025-10-16 20:31:17.976844 - Task3 Ended - End time: 1760626877.98 - Actual Duration: 6.25 s
+2025-10-17 14:24:36.513785 - Task: Task3, Deadline: 1760691281.51, Started: 1760691276.51, Status: on-time
+2025-10-17 14:24:36.522957 - Task3 Started - Start time: 1760691276.52 - Est. Duration: 6.67 s - Deadline: None
+2025-10-17 14:24:43.192902 - Task3 Ended - End time: 1760691283.19 - Actual Duration: 6.67 s
+2025-10-17 14:26:32.025214 - Task: Task3, Deadline: 1760691397.02, Started: 1760691392.03, Status: on-time
+2025-10-17 14:26:32.034269 - Task3 Started - Start time: 1760691392.03 - Est. Duration: 6.48 s - Deadline: None
+2025-10-17 14:26:38.517107 - Task3 Ended - End time: 1760691398.52 - Actual Duration: 6.48 s
+2025-10-17 14:26:38.523371 - Task: Task3 finished.
+2025-10-17 14:26:38.523454 - Task: Task2, Deadline: 1760691402.02, Started: 1760691398.52, Status: on-time
+2025-10-17 14:26:38.537132 - Task2 Started - Start time: 1760691398.54 - Est. Duration: 1.40 s - Deadline: None
+2025-10-17 14:26:39.939099 - Task2 Ended - End time: 1760691399.94 - Actual Duration: 1.40 s
+2025-10-17 14:26:39.945410 - Task: Task2 finished.
+2025-10-17 14:26:39.945488 - Task: Task1, Deadline: 1760691407.02, Started: 1760691399.95, Status: on-time
+2025-10-17 14:26:39.967277 - Task1 Started - Start time: 1760691399.97 - Est. Duration: 4.84 s - Deadline: None
+2025-10-17 14:26:44.808848 - Task1 Ended - End time: 1760691404.81 - Actual Duration: 4.84 s
+2025-10-17 14:26:44.815333 - Task: Task1 finished.
+2025-10-17 14:26:50.822253 - Task: InvokedTask, Deadline: 1760691425.51, Started: 1760691410.82, Status: on-time
+2025-10-17 14:26:50.843190 - InvokedTask Started - Start time: 1760691410.84 - Est. Duration: 3.18 s - Deadline: None
+2025-10-17 14:26:54.028385 - InvokedTask Ended - End time: 1760691414.03 - Actual Duration: 3.19 s
+2025-10-17 14:26:54.035612 - Task: InvokedTask finished.
+2025-10-17 14:28:17.632893 - Task: InvokedTask, Deadline: 1760691512.29, Started: 1760691497.63, Status: on-time
+2025-10-17 14:28:17.646130 - InvokedTask Started - Start time: 1760691497.65 - Est. Duration: 2.08 s - Deadline: None
+2025-10-17 14:28:19.727202 - InvokedTask Ended - End time: 1760691499.73 - Actual Duration: 2.08 s
+2025-10-17 14:28:19.734850 - Task: InvokedTask finished.
+2025-10-17 16:01:59.273873 - Task: Task3, Deadline: 1760697124.27, Started: 1760697119.27, Status: on-time
+2025-10-17 16:01:59.283845 - Task3 Started - Start time: 1760697119.28 - Est. Duration: 3.51 s - Deadline: None
+2025-10-17 16:02:02.793352 - Task3 Ended - End time: 1760697122.79 - Actual Duration: 3.51 s
+2025-10-17 16:02:02.799458 - Task: Task3 finished.
+2025-10-17 16:02:02.799536 - Task: Task2, Deadline: 1760697129.27, Started: 1760697122.80, Status: on-time
+2025-10-17 16:02:02.815001 - Task2 Started - Start time: 1760697122.81 - Est. Duration: 2.80 s - Deadline: None
+2025-10-17 16:02:05.614727 - Task2 Ended - End time: 1760697125.61 - Actual Duration: 2.80 s
+2025-10-17 16:02:05.621761 - Task: Task2 finished.
+2025-10-17 16:02:05.621854 - Task: Task1, Deadline: 1760697134.27, Started: 1760697125.62, Status: on-time
+2025-10-17 16:02:05.636287 - Task1 Started - Start time: 1760697125.64 - Est. Duration: 3.56 s - Deadline: None
+2025-10-17 16:02:09.201039 - Task1 Ended - End time: 1760697129.20 - Actual Duration: 3.56 s
+2025-10-17 16:02:09.208848 - Task: Task1 finished.
+2025-10-17 16:02:27.229837 - Task: InvokedTask, Deadline: 1760697161.80, Started: 1760697147.23, Status: on-time
+2025-10-17 16:02:27.246028 - InvokedTask Started - Start time: 1760697147.25 - Est. Duration: 3.95 s - Deadline: None
+2025-10-17 16:02:31.200989 - InvokedTask Ended - End time: 1760697151.20 - Actual Duration: 3.95 s
+2025-10-17 16:02:31.207407 - Task: InvokedTask finished.
+2025-10-24 14:30:27.800011 - Task: Task3, Deadline: 1761296432.79, Started: 1761296427.80, Status: on-time
+2025-10-24 14:30:27.836890 - Task3 Started - Start time: 1761296427.84 - Est. Duration: 5.99 s - Deadline: None
+2025-10-24 14:30:33.831512 - Task3 Ended - End time: 1761296433.83 - Actual Duration: 5.99 s
+2025-10-24 14:32:44.823887 - Task: Task3, Deadline: 1761296569.82, Started: 1761296564.82, Status: on-time
+2025-10-24 14:32:44.836351 - Task3 Started - Start time: 1761296564.84 - Est. Duration: 5.01 s - Deadline: None
+2025-10-24 14:32:49.847303 - Task3 Ended - End time: 1761296569.85 - Actual Duration: 5.01 s
+2025-10-24 14:32:49.853400 - Task: Task3 finished.
+2025-10-24 14:32:49.853523 - Task: Task2, Deadline: 1761296574.82, Started: 1761296569.85, Status: on-time
+2025-10-24 14:32:49.869611 - Task2 Started - Start time: 1761296569.87 - Est. Duration: 2.10 s - Deadline: None
+2025-10-24 14:32:51.967278 - Task2 Ended - End time: 1761296571.97 - Actual Duration: 2.10 s
+2025-10-24 14:32:51.970844 - Task: Task2 finished.
+2025-10-24 14:32:51.971092 - Task: Task1, Deadline: 1761296579.82, Started: 1761296571.97, Status: on-time
+2025-10-24 14:32:51.989096 - Task1 Started - Start time: 1761296571.99 - Est. Duration: 4.80 s - Deadline: None
+2025-10-24 14:32:56.795360 - Task1 Ended - End time: 1761296576.80 - Actual Duration: 4.81 s
+2025-10-24 14:32:56.802789 - Task: Task1 finished.
+2025-10-24 14:36:32.551744 - Task: Task3, Deadline: 1761296797.55, Started: 1761296792.55, Status: on-time
+2025-10-24 14:36:32.564433 - Task3 Started - Start time: 1761296792.56 - Est. Duration: 5.80 s - Deadline: None
+2025-10-24 14:36:38.368789 - Task3 Ended - End time: 1761296798.37 - Actual Duration: 5.80 s
+2025-10-24 14:36:38.374789 - Task: Task3 finished.
+2025-10-24 14:38:08.533393 - Task: Task3, Deadline: 1761296893.53, Started: 1761296888.53, Status: on-time
+2025-10-24 14:38:08.546406 - Task3 Started - Start time: 1761296888.55 - Est. Duration: 5.79 s - Deadline: None
+2025-10-24 14:38:14.340487 - Task3 Ended - End time: 1761296894.34 - Actual Duration: 5.79 s
+2025-10-24 14:38:14.349501 - Task: Task3 finished.
+2025-10-24 14:40:02.687091 - Task: Task3, Deadline: 1761297007.69, Started: 1761297002.69, Status: on-time
+2025-10-24 14:40:02.698707 - Task3 Started - Start time: 1761297002.70 - Est. Duration: 4.70 s - Deadline: None
+2025-10-24 14:40:07.405957 - Task3 Ended - End time: 1761297007.41 - Actual Duration: 4.71 s
+2025-10-24 14:40:07.412610 - Task: Task3 finished.
+2025-10-24 14:40:07.412778 - Task: Task2, Deadline: 1761297012.69, Started: 1761297007.41, Status: on-time
+2025-10-24 14:40:07.425589 - Task2 Started - Start time: 1761297007.43 - Est. Duration: 1.95 s - Deadline: None
+2025-10-24 14:40:09.377832 - Task2 Ended - End time: 1761297009.38 - Actual Duration: 1.95 s
+2025-10-24 14:40:09.384952 - Task: Task2 finished.
+2025-10-24 14:40:09.385069 - Task: Task1, Deadline: 1761297017.69, Started: 1761297009.39, Status: on-time
+2025-10-24 14:40:09.400616 - Task1 Started - Start time: 1761297009.40 - Est. Duration: 4.33 s - Deadline: None
+2025-10-24 14:40:13.735313 - Task1 Ended - End time: 1761297013.74 - Actual Duration: 4.33 s
+2025-10-24 14:40:13.745543 - Task: Task1 finished.
+2025-10-24 14:43:59.994206 - Task: Task4, Deadline: 1761297249.91, Started: 1761297239.99, Status: on-time
+2025-10-24 14:44:00.021893 - Task: Task4 finished.
+2025-10-24 14:44:00.021993 - Task: Task5, Deadline: 1761297249.92, Started: 1761297240.02, Status: on-time
+2025-10-24 14:44:00.035170 - Task: Task5 finished.
+2025-10-24 14:46:14.184120 - Task: Task4, Deadline: 1761297383.84, Started: 1761297374.18, Status: on-time
+2025-10-24 14:46:14.211623 - Short Task Started
+2025-10-24 14:46:15.212951 - Short Task Ended, Duration: 1.00 s
+2025-10-24 14:46:15.218721 - Task: Task4 finished.
+2025-10-24 14:46:15.218817 - Task: Task5, Deadline: 1761297383.84, Started: 1761297375.22, Status: on-time
+2025-10-24 14:46:20.245393 - Task: Task5 finished.

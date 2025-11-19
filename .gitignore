@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+
+# Very large benchmark data
+task_scheduler/Benchmarks/
+

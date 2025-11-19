@@ -1,0 +1,7 @@
+[
+    {"name": "BurstTask1", "script_path": "Serverless/task_generic.py", "deadline_offset": 5, "est_runtime": 1, "args": ["BurstTask1", "0.5", "1"]},
+    {"name": "BurstTask2", "script_path": "Serverless/task_generic.py", "deadline_offset": 6, "est_runtime": 1, "args": ["BurstTask2", "0.5", "1"]},
+    {"name": "BurstTask3", "script_path": "Serverless/task_generic.py", "deadline_offset": 4, "est_runtime": 1, "args": ["BurstTask3", "0.5", "1"]},
+    {"name": "BurstTask4", "script_path": "Serverless/task_generic.py", "deadline_offset": 7, "est_runtime": 1, "args": ["BurstTask4", "0.5", "1"]}
+  ]
+  

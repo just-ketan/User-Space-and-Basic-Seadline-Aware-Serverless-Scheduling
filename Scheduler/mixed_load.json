@@ -1,0 +1,6 @@
+[
+    {"name": "ShortTask", "script_path": "Serverless/task_generic.py", "deadline_offset": 20, "est_runtime": 2, "args": ["ShortTask", "1", "2"]},
+    {"name": "MediumTask", "script_path": "Serverless/task_generic.py", "deadline_offset": 15, "est_runtime": 5, "args": ["MediumTask", "3", "6"]},
+    {"name": "LongTask", "script_path": "Serverless/task_generic.py", "deadline_offset": 40, "est_runtime": 10, "args": ["LongTask", "7", "10"]}
+  ]
+  

@@ -1,0 +1,14 @@
+curl -X POST http://localhost:5000/invoke -H "Content-Type: application/json" -d '{
+  "name": "InvokedTask",
+  "script_path": "Serverless/task_generic.py",
+  "deadline_offset": 15,
+  "est_runtime": 4,
+  "args": ["InvokedTask", "2", "5"]
+}'
+
+
+curl http://localhost:5000/status
+
+
+curl http://localhost:5000/peek
+

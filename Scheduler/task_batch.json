@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Task1",
+        "script_path": "Serverless/task_generic.py",
+        "deadline_offset": 15,
+        "est_runtime": 4,
+        "args": ["Task1", "3", "5"]
+    },
+    {
+        "name": "Task2",
+        "script_path": "Serverless/task_generic.py",
+        "deadline_offset": 10,
+        "est_runtime": 2,
+        "args": ["Task2", "1", "3"]
+    },
+    {
+        "name": "Task3",
+        "script_path": "Serverless/task_generic.py",
+        "deadline_offset": 5,
+        "est_runtime": 6,
+        "args": ["Task3", "3", "7"]
+    }
+]
